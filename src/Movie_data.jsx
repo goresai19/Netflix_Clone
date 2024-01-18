@@ -54,15 +54,7 @@ const Moviedata =[
         Subtag:"A series by Netfilx"
     },
     {
-     id:"6",
-     Movielink:"https://moviesverse.mx/a-night-at-the-kindergarten-dual-hindi-org-hd/",
-     Imgsrc:qala,
-     Alternativename:"Qala",
-     Moviename:"Qala",
-     Subtag:"A series by Netfilx"
-    },
-    {
-        id:"7",
+        id:"6",
         Movielink:"https://moviesverse.mx/about-fate-dual-hindi-org-hd/",
         Imgsrc:about,
         Alternativename:"About Fate",
@@ -70,7 +62,7 @@ const Moviedata =[
         Subtag:"A series by Netfilx"
     },
     {
-     id:"8",
+     id:"7",
      Movielink:"https://moviesverse.mx/violent-night-dual-hindi-org-hd/",
      Imgsrc:vilolent,
      Alternativename:"Violent Night",
@@ -78,7 +70,7 @@ const Moviedata =[
      Subtag:"A series by Netfilx"
     },
     {
-     id:"9",
+     id:"8",
      Movielink:"https://moviesverse.mx/ponniyin-selvan-part-one-dual-hindi/",
      Imgsrc:ps,
      Alternativename:"Ponniyin-Selvan-Part-One",
@@ -86,7 +78,7 @@ const Moviedata =[
      Subtag:"A series by Netfilx"
     },
     {
-     id:"10",
+     id:"9",
      Movielink:"https://moviesverse.mx/ponniyin-selvan-part-one-dual-hindi/",
      Imgsrc:blackadam,
      Alternativename:"Black-Adam",
