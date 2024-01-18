@@ -56,7 +56,7 @@ const Moviedata =[
     {
      id:"6",
      Movielink:"https://moviesverse.mx/a-night-at-the-kindergarten-dual-hindi-org-hd/",
-     Imgsrc:quala,
+     Imgsrc:qala,
      Alternativename:"Qala",
      Moviename:"Qala",
      Subtag:"A series by Netfilx"
