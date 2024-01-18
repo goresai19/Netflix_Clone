@@ -51,38 +51,6 @@ const Moviedata =[
         Alternativename:"Guardians of the Galaxy: Holiday Special",
         Moviename:"Guardians of the Galaxy: Holiday ",
         Subtag:"A series by Netfilx"
-    },
-    {
-        id:"6",
-        Movielink:"https://moviesverse.mx/about-fate-dual-hindi-org-hd/",
-        Imgsrc:about,
-        Alternativename:"About Fate",
-        Moviename:"About fate",
-        Subtag:"A series by Netfilx"
-    },
-    {
-     id:"7",
-     Movielink:"https://moviesverse.mx/violent-night-dual-hindi-org-hd/",
-     Imgsrc:vilolent,
-     Alternativename:"Violent Night",
-     Moviename:"Violent Night",
-     Subtag:"A series by Netfilx"
-    },
-    {
-     id:"8",
-     Movielink:"https://moviesverse.mx/ponniyin-selvan-part-one-dual-hindi/",
-     Imgsrc:ps,
-     Alternativename:"Ponniyin-Selvan-Part-One",
-     Moviename:"Ponniyin Selvan",
-     Subtag:"A series by Netfilx"
-    },
-    {
-     id:"9",
-     Movielink:"https://moviesverse.mx/ponniyin-selvan-part-one-dual-hindi/",
-     Imgsrc:blackadam,
-     Alternativename:"Black-Adam",
-     Moviename:"Black-Adam",
-     Subtag:"A series by Netfilx"
     }
 ];
 
