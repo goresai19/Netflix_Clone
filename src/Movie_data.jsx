@@ -14,7 +14,8 @@ import about from "./images/about-fate.jpeg"
 const Moviedata =[
     {
         id:"10" ,
-     Movielink: "https://moviesverse.mx/a-night-at-the-kindergarten-dual-hindi-org-hd/",
+     Movielink: "https://movie
+     sverse.mx/a-night-at-the-kindergarten-dual-hindi-org-hd/",
      Imgsrc: night,
      Alternativename: "wednesday",
      Moviename: "A Night At The Kindergarden",
